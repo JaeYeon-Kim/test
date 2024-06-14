@@ -1,4 +1,4 @@
 # Git Test
 
-- Bug Fixed
+Conflics fixed
 
